@@ -26,6 +26,7 @@ cd keyword-content-collector/server
 npm install
 
 Запуск сервера
+
 1.Вы должны находится в папке server
 
 2.Запустите сервер с помощью команды:
@@ -34,9 +35,12 @@ npm start
 Сервер будет запущен на http://localhost:3000.
 
 Запуск клиентской части
+
 1.Откройте другой экземпляр командной строки или PowerShell.
+
 2.Перейдите в папку клиента:
 cd keyword-content-collector/client
+
 3.Откройте файл index.html в вашем браузере (например, Google Chrome или Firefox).
 
 Использование
