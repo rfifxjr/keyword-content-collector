@@ -13,9 +13,7 @@
 
 1. Откройте командную строку (cmd) или PowerShell.
 2. Перейдите в директорию, где вы хотите клонировать репозиторий.
-3. Выполните команду:
-
-git clone https://github.com/ваш_пользователь/keyword-content-collector.git
+3. Выполните команду: git clone https://github.com/ваш_пользователь/keyword-content-collector.git
 
 Установка зависимостей
 
